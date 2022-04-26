@@ -42,3 +42,13 @@ npm run build
 ```
 
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+
+Some commands:
+DEVELOP
+Run ```svelte-kit dev``` to run your project locally
+
+SHIP
+Push to ```main``` to ship changes to production
+
+PREVIEW
+Push to any Git branch other than main to preview changes
